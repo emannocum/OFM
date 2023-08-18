@@ -1,4 +1,4 @@
-package com.example.OFMBE;
+package com.ofm.OFMBE;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

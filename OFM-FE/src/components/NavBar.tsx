@@ -1,6 +1,12 @@
 
 
-const pagesObject = [
+interface IPagesObject {
+    imgSrc: string,
+    link: string,
+    pageTitle: string
+}
+
+const pagesObject : Array <IPagesObject> = [
     { imgSrc: '', link: '/managefiles', pageTitle: 'Manage Files'}
 ]
 
